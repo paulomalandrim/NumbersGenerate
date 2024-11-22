@@ -12,7 +12,7 @@ public class Main {
         Random random = new Random();
 
         // MAIOR NUMERO A SER SORTEADO
-        // QUINA -- int maiorNumeroASerSorteado = 80;
+        // QUINA --  int maiorNumeroASerSorteado = 80;
         // MEGASENA -- int maiorNumeroASerSorteado = 60;
         // LOTOFACIL -- int maiorNumeroASerSorteado = 25;
          int maiorNumeroASerSorteado = 25;
