@@ -12,13 +12,19 @@ public class Main {
         Random random = new Random();
 
         // MAIOR NUMERO A SER SORTEADO
-        int maiorNumeroASerSorteado = 80;
+        // QUINA -- int maiorNumeroASerSorteado = 80;
+        // MEGASENA -- int maiorNumeroASerSorteado = 60;
+        // LOTOFACIL -- int maiorNumeroASerSorteado = 25;
+         int maiorNumeroASerSorteado = 25;
 
         // QUANTIDADE DE NUMEROS PARA UM JOGO
-        int qtdeNumeros = 5;
+        // QUINA -- int qtdeNumeros = 5;
+        // MEGASENA -- int qtdeNumero = 6;
+        // LOTOFACIL -- int qtdeNumero = 15;
+        int qtdeNumeros = 15;
 
         // QUANTIDADE DE JOGOS A SEREM REALIZADOS
-        int qtdeJogos = 8;
+        int qtdeJogos = 3;
 
         // TESTAR POSSIVEL LOOP
         if (qtdeNumeros > maiorNumeroASerSorteado) {
